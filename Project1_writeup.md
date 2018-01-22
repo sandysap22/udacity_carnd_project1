@@ -75,8 +75,8 @@ Here the key parameters were min_line_length = 100 and max_line_gap = 50. This h
   
 In all above steps I have  used all helper functions and also added my own function to render multiple images in one notebook cell. This helped me to see all types of variance in all images at one place. This helped me to fine tune parameters in less amount of time.  
 
-|Image processing at different stage|
-|--------------|--------------|
+### Image processing at different stage
+
 |Step 1 graysale image|Step 2 blur image |
 |![Pipeline 1 graysale image][image_p1_step1] | ![Pipeline 1 blur image][image_p1_step2] |
 |Step 3 edge image|Step 4  masked image |
