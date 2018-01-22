@@ -77,11 +77,11 @@ In all above steps I have  used all helper functions and also added my own funct
 
 |Image processing at different stage|
 |--------------|--------------|
-|Step 1 : graysale image|Step 2 : blur image |
+|Step 1 graysale image|Step 2 blur image |
 |![Pipeline 1 graysale image][image_p1_step1] | ![Pipeline 1 blur image][image_p1_step2] |
-|Step 3 : edge image|Step 4 : masked image |
+|Step 3 edge image|Step 4  masked image |
 |![Pipeline 1 edge image][image_p1_step3]|![Pipeline 1 masked image][image_p1_step4]|
-|Step 5 : hough lines|Step 6 : hough line overlap |
+|Step 5 hough lines|Step 6 hough line overlap |
 |![Pipeline 1 hough lines][image_p1_step5]|![Pipeline 1 hough line overlap on original image][image_p1_step6]|
 
 
