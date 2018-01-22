@@ -18,7 +18,7 @@ The steps of this project are the following:
 [//]: # (Image References)
 
 [image_p1_step1]: ./sample_images/p1_step1.jpg "pipeline 1 gray image"
-[image_p1_step2]: ./sample_images/p1_step2.jpg "pipeline 1 blur image"
+[image_p1_step2]: ./sample_images/p1_step2.JPG "pipeline 1 blur image"
 [image_p1_step3]: ./sample_images/p1_step3.jpg "pipeline 1 edge image"
 [image_p1_step4]: ./sample_images/p1_step4.jpg "pipeline 1 masked image"
 [image_p1_step5]: ./sample_images/p1_step5.jpg "pipeline 1 hough lines"
@@ -112,11 +112,8 @@ Then I extracted few sample frames from challenge video and applied above pipeli
 |Hough lines with above pipeline | Final image of challenge video with extended lines |
 |---|---|
 |![Pipeline 1 hough lines ch_img1][image_p1_ch_hough1]| ![Pipeline 1 final ch_img1][image_p1_ch_final1]|
-
 |![Pipeline 1 hough lines ch_img2][image_p1_ch_hough2]| ![Pipeline 1 final ch_img2][image_p1_ch_final2]|
-
 |![Pipeline 1 hough lines ch_img3][image_p1_ch_hough3]| ![Pipeline 1 final ch_img3][image_p1_ch_final3]|
-
 |![Pipeline 1 hough lines ch_img4][image_p1_ch_hough4]| ![Pipeline 1 final ch_img4][image_p1_ch_final4]|
 
 1. The average slope and intercept are no way near to actual lane line slope and intercept. 
