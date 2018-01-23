@@ -45,7 +45,7 @@ The steps of this project are the following:
 
 ### The project code 
 ---
-Project code and outputs can be found in P1.ipynb.
+Project code and outputs can be found in P1.ipynb or P1.html .
 
 ***Please note that the notebook has become heavy (around 15 mb) due to lot of images into it.  So it will take a while to load it in browser.***
 
@@ -77,7 +77,7 @@ In all above steps I have  used all helper functions and also added my own funct
 
 ### Image processing at different stage
 
-|![Pipeline 1 graysale image][image_p1_step1] | ![Pipeline 1 blur image][image_p1_step2] |
+|![Pipeline 1 graysale image][image_p1_step1]|![Pipeline 1 blur image][image_p1_step2]|
 |![Pipeline 1 edge image][image_p1_step3]|![Pipeline 1 masked image][image_p1_step4]|
 |![Pipeline 1 hough lines][image_p1_step5]|![Pipeline 1 hough line overlap on original image][image_p1_step6]|
 

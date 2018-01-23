@@ -18,7 +18,7 @@ To find out more details of project you can refer [project writeup](https://gith
 
 The project specifications can be found in [project rubric](https://review.udacity.com/#!/rubrics/322/view)
 
-To view details of steps that are followed you can refer P1.ipynb.
+To view details of steps that are followed you can refer P1.ipynb or P1.html . 
 
 ***Please note that the notebook has become heavy (around 15 mb) due to lot of images into it. So it will take a while to load it in browser***
 
